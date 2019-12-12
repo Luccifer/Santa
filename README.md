@@ -9,6 +9,21 @@ randomly assigning pairings and sending emails. It can avoid pairing
 couples to their significant other, and allows custom email messages to be 
 specified.
 
+Pre-install 
+------------
+
+1. Install Brew:
+
+   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   
+2. Install Python:
+
+    brew install python2
+    
+3. Install pip:
+    
+    brew install pip
+
 Dependencies
 ------------
 
