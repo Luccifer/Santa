@@ -12,9 +12,11 @@ specified.
 Dependencies
 ------------
 
-pip install pytz
+pytz, pyyaml
 
-pip install pyyaml
+    pip install pytz
+
+    pip install pyyaml
 
 Usage
 -----
