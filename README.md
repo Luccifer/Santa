@@ -26,6 +26,10 @@ brew install python2
 ```    
 brew install pip
 ```
+3. Copy this files:
+```    
+git clone https://github.com/Luccifer/Santa.git
+```
 Dependencies
 ------------
 
