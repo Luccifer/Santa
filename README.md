@@ -1,6 +1,9 @@
 Intro
 =====
 
+USING PYTHON@2!!!!
+
+
 **secret-santa** can help you manage a list of secret santa participants by
 randomly assigning pairings and sending emails. It can avoid pairing 
 couples to their significant other, and allows custom email messages to be 
@@ -9,8 +12,8 @@ specified.
 Dependencies
 ------------
 
-pytz
-pyyaml
+pip install pytz
+pip install pyyaml
 
 Usage
 -----
