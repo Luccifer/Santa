@@ -14,16 +14,18 @@ Pre-Install
 
 1. Install Brew:
 
+```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
    
 2. Install Python:
-
+```
 brew install python2
-    
+``` 
 3. Install pip:
-    
+```    
 brew install pip
-
+```
 Dependencies
 ------------
 
