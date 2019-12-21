@@ -111,6 +111,8 @@ participants.
 
             $ python secret_santa.py --send
 
-To send the emails, call using the `--send` argument
+If ya wanna send emails through Gmail you should make ONE MORE STEP!!! -> https://github.com/Luccifer/Santa/blob/master/Screenshot%202019-12-21%20at%2018.59.05.png
 
+To send the emails, call using the `--send` argument
+      
     python secret_santa.py --send
