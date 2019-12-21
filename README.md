@@ -46,7 +46,7 @@ Copy config.yml.template to config.yml and enter in the connection details
 for your outgoing mail server. Modify the participants and couples lists and 
 the email message if you wish.
 
-    cd secret-santa/
+    cd Santa-master/
     cp config.yml.template config.yml
 
 Here is the example configuration unchanged:
